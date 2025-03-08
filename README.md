@@ -2,8 +2,8 @@
 > The only official places to download Exostrap is this GitHub repository. Any other repositories offering downloads or claiming to be us are not controlled by us.
 
 <p align="center">
-    <img src="https://github.com/yourusername/exostrap/raw/main/Images/Exostrap-full-dark.png#gh-dark-mode-only" width="420">
-    <img src="https://github.com/yourusername/exostrap/raw/main/Images/Exostrap-full-light.png#gh-light-mode-only" width="420">
+    <img src="https://github.com/DevX3D/exostrap/raw/main/Images/Exostrap-full-dark.png#gh-dark-mode-only" width="420">
+    <img src="https://github.com/DevX3D/exostrap/raw/main/Images/Exostrap-full-light.png#gh-light-mode-only" width="420">
 </p>
 
 <div align="center">
@@ -20,7 +20,7 @@
 
 Exostrap is a third-party replacement for the standard Roblox bootstrapper, providing additional useful features and improvements.
 
-Running into a problem or need help with something? [Check out the Wiki](https://github.com/yourusername/exostrap/wiki). If you can't find anything, or would like to suggest something, please [submit an issue](https://github.com/yourusername/exostrap/issues).
+Running into a problem or need help with something? [Check out the Wiki](https://github.com/DevX3D/exostrap/wiki). If you can't find anything, or would like to suggest something, please [submit an issue](https://github.com/DevX3D/exostrap/issues).
 
 Exostrap is only supported for PCs running Windows.
 
@@ -42,9 +42,9 @@ Exostrap is only supported for PCs running Windows.
 - Ability to configure graphics fidelity and UI experience
 
 ## Installing
-Download the [latest release of Exostrap](https://github.com/yourusername/exostrap/releases/latest), and run it. Configure your preferences if needed, and install. That's about it!
+Download the [latest release of Exostrap](https://github.com/DevX3D/exostrap/releases/latest), and run it. Configure your preferences if needed, and install. That's about it!
 
-Alternatively, you can install Exostrap via [Winget](https://winstall.app/apps/yourusername.Exostrap) by running this in a Command Prompt window:
+Alternatively, you can install Exostrap via [Winget](https://winstall.app/apps/DevX3D.Exostrap) by running this in a Command Prompt window:
 ```
 > winget install exostrap
 ```
@@ -59,17 +59,17 @@ Once installed, Exostrap is added to your Start Menu, where you can access the m
 
 Exostrap uses the [WPF UI](https://github.com/lepoco/wpfui) library for the user interface design.
 
-[shield-repo-license]:  https://img.shields.io/github/license/yourusername/exostrap
-[shield-repo-workflow]: https://img.shields.io/github/actions/workflow/status/yourusername/exostrap/ci-release.yml?branch=main&label=builds
-[shield-repo-releases]: https://img.shields.io/github/downloads/yourusername/exostrap/latest/total?color=981bfe
-[shield-repo-latest]:   https://img.shields.io/github/v/release/yourusername/exostrap?color=7a39fb
+[shield-repo-license]:  https://img.shields.io/github/license/DevX3D/exostrap
+[shield-repo-workflow]: https://img.shields.io/github/actions/workflow/status/DevX3D/exostrap/ci-release.yml?branch=main&label=builds
+[shield-repo-releases]: https://img.shields.io/github/downloads/DevX3D/exostrap/latest/total?color=981bfe
+[shield-repo-latest]:   https://img.shields.io/github/v/release/DevX3D/exostrap?color=7a39fb
 
 [shield-discord-server]: https://img.shields.io/discord/yourdiscordserver?logo=discord&logoColor=white&label=discord&color=4d3dff
 
-[repo-license]:  https://github.com/yourusername/exostrap/blob/main/LICENSE
-[repo-actions]:  https://github.com/yourusername/exostrap/actions
-[repo-releases]: https://github.com/yourusername/exostrap/releases
-[repo-latest]:   https://github.com/yourusername/exostrap/releases/latest
+[repo-license]:  https://github.com/DevX3D/exostrap/blob/main/LICENSE
+[repo-actions]:  https://github.com/DevX3D/exostrap/actions
+[repo-releases]: https://github.com/DevX3D/exostrap/releases
+[repo-latest]:   https://github.com/DevX3D/exostrap/releases/latest
 
-[discord-invite]:  https://discord.gg/yourdiscordlink
+[discord-invite]:  https://discord.gg/BhJj8HNq2y
 

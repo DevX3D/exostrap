@@ -64,7 +64,7 @@ Exostrap uses the [WPF UI](https://github.com/lepoco/wpfui) library for the user
 [shield-repo-releases]: https://img.shields.io/github/downloads/DevX3D/exostrap/latest/total?color=981bfe
 [shield-repo-latest]:   https://img.shields.io/github/v/release/DevX3D/exostrap?color=7a39fb
 
-[shield-discord-server]: https://img.shields.io/discord/yourdiscordserver?logo=discord&logoColor=white&label=discord&color=4d3dff
+[shield-discord-server]: https://img.shields.io/discord/123456789012345678?logo=discord&logoColor=white&label=discord&color=4d3dff
 
 [repo-license]:  https://github.com/DevX3D/exostrap/blob/main/LICENSE
 [repo-actions]:  https://github.com/DevX3D/exostrap/actions
